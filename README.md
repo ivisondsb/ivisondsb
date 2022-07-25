@@ -1,6 +1,6 @@
 # Ivison Silva
 
-Dev. Mobile - Kotlin
+Dev. Mobile
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ivison%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivisondsb/)](https://www.linkedin.com/in/ivisondsb/)
 [![Gmail Badge](https://img.shields.io/badge/-ivisonk0@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivisonk0@gmail.com)](mailto:ivisonk0@gmail.com)
