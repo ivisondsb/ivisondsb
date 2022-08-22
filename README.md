@@ -7,4 +7,4 @@ Dev. Mobile
 
 Oops, Ivison speaking, all right?
 My name is Ivison, I'm 23 years old, and I'm an IT student.
-I graduated in Digital Games, but I've been deepening my knowledge for Mobile Native development. Looking for an opportunity in some of these areas, but focus on mobile development.
+I graduated in Digital Games, but I've been deepening my knowledge for Mobile Development. Looking for an opportunity in some of these areas, but focus on mobile development.
