@@ -10,9 +10,9 @@ My name is Ivison, I'm 23 years old, and I'm an IT student.
 I graduated in Digital Games, but I've been deepening my knowledge in JavaScript and Web development. I'm looking for an opportunity as a Back-End in NodeJs with Express or Fastify, to get my first vacancy as a developer.
 
 Main Skills:
-JavaScript
-REST API
-NodeJS (Express)
-Sql (PostgreSQL)
-NoSQL (MongoDB)
+JavaScript,
+REST API,
+NodeJS (Express),
+Sql (PostgreSQL),
+NoSQL (MongoDB),
 HTML/CSS
