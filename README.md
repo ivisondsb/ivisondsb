@@ -6,13 +6,17 @@ Dev. Back-End
 [![Gmail Badge](https://img.shields.io/badge/-ivisondsb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivisondsb@gmail.com)](mailto:ivisondsb@gmail.com)
 
 Oops, Ivison speaking, all right?
-My name is Ivison, I'm 23 years old, and I'm an IT student.
-I graduated in Digital Games, but I've been deepening my knowledge in JavaScript and Web development. I'm looking for an opportunity as a Back-End in NodeJs with Express or Fastify, to get my first vacancy as a developer.
+My name is Ivison, I'm 24 years old, and I'm an IT student.
+I graduated in Digital Games, but I've been deepening my knowledge in JavaScript and Web development. I'm looking for an opportunity as a Back-End in NodeJs with Express or as an Android developer with Kotlin, to get my first vacancy as a developer.
 
 Main Skills:
-JavaScript,
-REST API,
-NodeJS (Express),
-Sql (PostgreSQL),
-NoSQL (MongoDB),
+JavaScript
+API REST
+NodeJS (Express)
+SQL (postegreSQL, SQLite)
+NoSQL (MongoDB)
 HTML/CSS
+Kotlin
+Android Studio
+XML
+Jetpack Compose
