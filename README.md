@@ -7,13 +7,13 @@ Dev. Back-End
 
 Oops, Ivison speaking, all right?
 My name is Ivison, I'm 24 years old, and I'm an IT student.
-I graduated in Digital Games, but I've been deepening my knowledge in JavaScript and Web development. I'm looking for an opportunity as a Back-End in NodeJs with Express or as an Android developer with Kotlin, to get my first vacancy as a developer.
+I graduated in Digital Games, but I've been deepening my knowledge in JavaScript and Web development. I'm looking for an opportunity as a Back-End in NodeJs with Express, to get my first vacancy as a developer.
 
 Main Skills:
 JavaScript
 API REST
 NodeJS (Express)
-SQL (postegreSQL, SQLite)
+SQL (MySQL, postegreSQL, SQLite)
 NoSQL (MongoDB)
 HTML/CSS
 Kotlin
