@@ -16,4 +16,4 @@ POO
 API REST
 NodeJS (Express)
 SQL (SQL Server, Oracle, MySQL, PostegreSQL, SQLite)
-Android Studio (XML and Jetpack Compose)
+Android Studio (Views and Jetpack Compose)
